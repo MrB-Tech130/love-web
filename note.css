@@ -1,0 +1,184 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: pink;
+    padding: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 30px;
+    color: brown;
+    margin: 10px;
+    font-weight: bold;
+}
+
+button {
+    border-radius: 20px;
+    padding: 8px 20px;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    cursor: pointer;
+    justify-content: center;
+    color: red;
+    font-weight: bolder;
+    font-family: initial;
+}
+.note {
+    background: white;
+    padding:  10px 30px;
+    margin: 10px;
+    border-radius: 50px;
+
+}
+
+.first {
+    background: rgb(254, 223, 228);
+    border-left: 10px solid brown;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+      transition: transform 0.4s ease
+}
+.first:hover {
+      transform: scale(1.01);
+    transitions: transform 0.4s ease;
+    box-shadow: 0 8px 10px gray;
+}
+
+.sec {
+    background: rgb(254, 223, 228);
+    border-left: 10px solid brown;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: transform 0.4s ease;
+}
+
+.sec:hover {
+      transform: scale(1.01);
+    transitions: transform 0.4s ease;
+    box-shadow: 0 8px 10px gray;
+}
+
+.third {
+    background: rgb(254, 223, 228);
+    border-left: 10px solid brown;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: transform 0.4 ease;
+}
+
+.third:hover {
+      transform: scale(1.01);
+    transitions: transform 0.4s ease;
+    box-shadow: 0 8px 10px gray;
+}
+
+.fouth {
+    background: rgb(254, 223, 228);
+    border-left: 10px solid brown;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: transform 0.4s ease;
+}
+
+.fouth:hover {
+      transform: scale(1.01);
+    transitions: transform 0.4s ease;
+    box-shadow: 0 8px 10px gray;
+}
+
+.fifth {
+    background: rgb(254, 223, 228);
+    border-left: 10px solid brown;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: transform 0.4s ease;
+}
+
+.fifth:hover:hover:hover:hover {
+      transform: scale(1.01);
+    transitions: transform 0.4s ease;
+    box-shadow: 0 8px 10px gray;
+}
+
+.sixth {
+    background: rgb(254, 223, 228);
+    border-left: 10px solid brown;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: transform 0.4s ease;
+}
+
+.sixth:hover {
+      transform: scale(1.01);
+    transitions: transform 0.4s ease;
+    box-shadow: 0 8px 10px gray;
+}
+
+
+.rem {
+    color: chocolate;
+    font-weight: lighter;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
