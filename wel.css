@@ -39,6 +39,8 @@ body {
 }
 .nav {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 12px;
     margin-top: 50px;
@@ -138,3 +140,25 @@ button {
     font-weight: bolder;
     font-family: initial;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
