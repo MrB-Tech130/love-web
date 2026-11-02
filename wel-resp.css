@@ -30,6 +30,15 @@
     text-align: center;
     display: flex;
     flex-direction: row;
+     color: red;
+    font-weight: bold;
+    margin: 50% 0;
+    font-size: 25px;
+    overflow: hidden;
+    animation: welOut 1s ease 3s forwards;
+    position: fixed;
+    z-index: 10px;
+    align-items: center;
    }
 }
 
